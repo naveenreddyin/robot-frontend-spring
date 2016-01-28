@@ -9,6 +9,7 @@
     <form:textarea type="text" name="name"  path="name" rows="30"/>
     <input type="submit" value="Analyze"/>
 </form:form>
+<div><h2>${classify}</h2></div>
 <div>
     <table id="searchResult" class="user users tablesorter">
         <thead>
