@@ -4,7 +4,6 @@
 
 <html>
 <body>
-
 <form:form method="post" action="/" modelAttribute="formdata">
     <form:textarea type="text" name="name"  path="name" rows="30"/>
     <input type="submit" value="Analyze"/>
