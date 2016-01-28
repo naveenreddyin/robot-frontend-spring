@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="490d392d-465d-4f9c-aeec-1aaa6979a0b9" name="Default" comment="" />
+    <list default="true" id="490d392d-465d-4f9c-aeec-1aaa6979a0b9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="robot.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -873,7 +876,7 @@
       <created>1454013160732</created>
       <option name="number" value="Default" />
       <updated>1454013160732</updated>
-      <workItem from="1454013163713" duration="1296000" />
+      <workItem from="1454013163713" duration="1442000" />
     </task>
     <servers />
   </component>
@@ -883,7 +886,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1296000" />
+    <option name="totallyTimeSpent" value="1442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="783" extended-state="0" />
